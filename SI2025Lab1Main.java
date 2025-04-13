@@ -117,7 +117,7 @@ class TaskManager {
         return new HashMap<>();
     }
 
-    // 8. Mark a task as completed by name
+    /// 8. Mark a task as completed by name
     public void markTaskCompleted(String name) {
         // TODO: Implement completion logic
     }
