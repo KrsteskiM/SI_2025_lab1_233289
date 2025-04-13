@@ -1,0 +1,16 @@
+Дел 2:
+git fetch - се создаваат  tracker гранки на гранките.
+git checkout 1-remove-a-task-by-name
+(во .java документот се имплементира соодветниот feauture)
+git add SI2025lab1Main.java
+git commit -m "Implement remove a task by name"
+git push origin
+Гo правам тоа за сите 3 features/
+---------------------------------------------------------
+Креирав 3 pull requests, спојувајќи 2 со master.
+
+git checkout master
+git merge 6-filter-task-by-category
+git log > log.txt
+
+

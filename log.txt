@@ -1,0 +1,84 @@
+commit 8e09b3fccf78cac68aba3e00d0875fb49aac28bd
+Merge: b2f599b 9a15f96
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 18:53:14 2025 +0200
+
+    Merge branch '6-filter-tasks-by-category'
+
+commit b2f599bf4b7d6299f659b3f6c7100e1fa9728fe0
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 18:30:38 2025 +0200
+
+    2 featuresa added
+
+commit 8a03eb86f10b173fabb6fb545d7ae78db194150d
+Merge: 004bbf0 eaee4f0
+Author: KrsteskiM <123649021+KrsteskiM@users.noreply.github.com>
+Date:   Sun Apr 13 18:19:56 2025 +0200
+
+    Merge pull request #15 from KrsteskiM/1-remove-a-task-by-name
+    
+    Merge pull request #14 from KrsteskiM/master
+
+commit eaee4f08818067dd44e6ce2df7cb55baef62b141
+Merge: 9574226 004bbf0
+Author: KrsteskiM <123649021+KrsteskiM@users.noreply.github.com>
+Date:   Sun Apr 13 18:03:10 2025 +0200
+
+    Merge pull request #14 from KrsteskiM/master
+    
+    Merge 1 to master
+
+commit 004bbf0de62cfeb43485911b75de9fddcd6fccff
+Merge: e318196 f72c811
+Author: KrsteskiM <123649021+KrsteskiM@users.noreply.github.com>
+Date:   Sun Apr 13 17:40:51 2025 +0200
+
+    Merge pull request #12 from KrsteskiM/3-find-all-completed-tasks
+    
+    3 find all completed tasks
+
+commit e3181961d56ef8895cedfe804ddf53e37985822f
+Merge: e0c9086 9574226
+Author: KrsteskiM <123649021+KrsteskiM@users.noreply.github.com>
+Date:   Sun Apr 13 17:40:24 2025 +0200
+
+    Merge pull request #11 from KrsteskiM/1-remove-a-task-by-name
+    
+    Implemented remove a task by name
+
+commit 9a15f9642c2eed97eccc704797b6cc40649944a6
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 17:31:49 2025 +0200
+
+    Implement filter by category
+
+commit f72c811323e8bc8504ab21cdbb9677bbea4e0840
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 17:22:27 2025 +0200
+
+    Implement find completed tasks
+
+commit 88d50851cdd1228c6155c30f60416e34c020731b
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 17:13:00 2025 +0200
+
+    Implement find completed tasks
+
+commit 9574226360049f1492c9f21842abee6552b64be6
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 17:03:14 2025 +0200
+
+    Implemented remove a task by name
+
+commit e0c9086de00fa60f41d21a08df97fdb7b2414195
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 16:16:02 2025 +0200
+
+    Add starter code
+
+commit b1f8e5caac9f85cfa1e36d3bb2fd6aa9387a2b9c
+Author: Mihajlo <mihajlo13krsteski@yahoo.com>
+Date:   Sun Apr 13 15:56:03 2025 +0200
+
+    initial commit
